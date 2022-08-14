@@ -8,4 +8,4 @@
 
 # FOR FRONTEND
 
-- Just serve the "Frontend" dir and access in browser.
+- Just serve the "Frontend" dir and access it in browser.
